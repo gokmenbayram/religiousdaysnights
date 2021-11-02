@@ -1,0 +1,264 @@
+[
+  {
+    "date": "2022",
+    "religiousdaysnights": [
+      {
+        "id": 1,
+        "month": "ŞUBAT",
+        "day": "Üç Aylar",
+        "hicri_date": "Recep 1443",
+        "miladi_date_day": "02 Çar"
+      },
+      {
+        "id": 2,
+        "month": "ŞUBAT",
+        "day": "Regaib Kandili",
+        "hicri_date": "Recep 1443",
+        "miladi_date_day": "03 Per"
+      },
+      {
+        "id": 3,
+        "month": "ŞUBAT",
+        "day": "Miraç Kandili",
+        "hicri_date": "Recep 1443",
+        "miladi_date_day": "27 Şub"
+      },
+      {
+        "id": 4,
+        "month": "MART",
+        "day": "Berat Kandili",
+        "hicri_date": "Şaban 1443",
+        "miladi_date_day": "17 Per"
+      },
+      {
+        "id": 5,
+        "month": "NİSAN",
+        "day": "Ramazan",
+        "hicri_date": "Ramazan 1443",
+        "miladi_date_day": "02 Cmt"
+      },
+      {
+        "id": 6,
+        "month": "NİSAN",
+        "day": "Kadir Gecesi",
+        "hicri_date": "Ramazan 1443",
+        "miladi_date_day": "27 Çar"
+      },
+      {
+        "id": 7,
+        "month": "MAYIS",
+        "day": "Arefe",
+        "hicri_date": "Şevval 1443",
+        "miladi_date_day": "01 Paz"
+      },
+      {
+        "id": 8,
+        "month": "MAYIS",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1443",
+        "miladi_date_day": "02 Pzt"
+      },
+      {
+        "id": 9,
+        "month": "MAYIS",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1443",
+        "miladi_date_day": "03 Sal"
+      },
+      {
+        "id": 10,
+        "month": "MAYIS",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1443",
+        "miladi_date_day": "04 Çar"
+      },
+      {
+        "id": 11,
+        "month": "TEMMUZ",
+        "day": "Arefe",
+        "hicri_date": "Zilhicce 1443",
+        "miladi_date_day": "08 Cum"
+      },
+      {
+        "id": 12,
+        "month": "TEMMUZ",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1443",
+        "miladi_date_day": "09 Cmt"
+      },
+      {
+        "id": 13,
+        "month": "TEMMUZ",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1443",
+        "miladi_date_day": "10 Paz"
+      },
+      {
+        "id": 14,
+        "month": "TEMMUZ",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1443",
+        "miladi_date_day": "11 Pzt"
+      },
+      {
+        "id": 15,
+        "month": "TEMMUZ",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1443",
+        "miladi_date_day": "12 Sal"
+      },
+      {
+        "id": 16,
+        "month": "TEMMUZ",
+        "day": "Hicri Yılbaşı",
+        "hicri_date": "Muharrem 1444",
+        "miladi_date_day": "30 Cmt"
+      },
+      {
+        "id": 17,
+        "month": "AĞUSTOS",
+        "day": "Aşure Günü",
+        "hicri_date": "Muharrem 1444",
+        "miladi_date_day": "08 Pzt"
+      },
+      {
+        "id": 18,
+        "month": "EKİM",
+        "day": "Mevlid Kandili",
+        "hicri_date": "Rebiülevvel 1444",
+        "miladi_date_day": "07 Cum"
+      }
+    ]
+  },
+  {
+    "date": "2023",
+    "religiousdaysnights": [
+      {
+        "id": 1,
+        "month": "OCAK",
+        "day": "Üç Aylar",
+        "hicri_date": "Recep 1444",
+        "miladi_date_day": "23 Pzt"
+      },
+      {
+        "id": 2,
+        "month": "OCAK",
+        "day": "Regaib Kandili",
+        "hicri_date": "Recep 1444",
+        "miladi_date_day": "26 Per"
+      },
+      {
+        "id": 3,
+        "month": "ŞUBAT",
+        "day": "Miraç Kandili",
+        "hicri_date": "Recep 1444",
+        "miladi_date_day": "17 Cum"
+      },
+      {
+        "id": 4,
+        "month": "MART",
+        "day": "Berat Kandili",
+        "hicri_date": "Şaban 1444",
+        "miladi_date_day": "06 Pzt"
+      },
+      {
+        "id": 5,
+        "month": "MART",
+        "day": "Ramazan",
+        "hicri_date": "Ramazan 1444",
+        "miladi_date_day": "23 Per"
+      },
+      {
+        "id": 6,
+        "month": "MART",
+        "day": "Kadir Gecesi",
+        "hicri_date": "Ramazan 1444",
+        "miladi_date_day": "17 Pzt"
+      },
+      {
+        "id": 7,
+        "month": "NİSAN",
+        "day": "Arefe",
+        "hicri_date": "Ramazan 1444",
+        "miladi_date_day": "20 Per"
+      },
+      {
+        "id": 8,
+        "month": "NİSAN",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1444",
+        "miladi_date_day": "21 Cum"
+      },
+      {
+        "id": 9,
+        "month": "NİSAN",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1444",
+        "miladi_date_day": "22 Cmt"
+      },
+      {
+        "id": 10,
+        "month": "NİSAN",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1444",
+        "miladi_date_day": "23 Paz"
+      },
+      {
+        "id": 11,
+        "month": "HAZİRAN",
+        "day": "Arefe",
+        "hicri_date": "Zilhicce 1444",
+        "miladi_date_day": "27 Sal"
+      },
+      {
+        "id": 12,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1444",
+        "miladi_date_day": "28 Çar"
+      },
+      {
+        "id": 13,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1444",
+        "miladi_date_day": "29 Per"
+      },
+      {
+        "id": 14,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1444",
+        "miladi_date_day": "30 Cum"
+      },
+      {
+        "id": 15,
+        "month": "TEMMUZ",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1444",
+        "miladi_date_day": "01 Cmt"
+      },
+      {
+        "id": 16,
+        "month": "TEMMUZ",
+        "day": "Hicri Yılbaşı",
+        "hicri_date": "Muharrem 1445",
+        "miladi_date_day": "19 Çar"
+      },
+      {
+        "id": 17,
+        "month": "TEMMUZ",
+        "day": "Aşure Günü",
+        "hicri_date": "Muharrem 1445",
+        "miladi_date_day": "28 Cum"
+      },
+      {
+        "id": 18,
+        "month": "EYLÜL",
+        "day": "Mevlid Kandili",
+        "hicri_date": "Rebiülevvel 1445",
+        "miladi_date_day": "26 Sal"
+      }
+    ]
+  }
+]

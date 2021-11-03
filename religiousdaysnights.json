@@ -1,6 +1,6 @@
 [
   {
-    "date": 2022,
+    "year": 2022,
     "religiousdaysnights": [
       {
         "id": 1,
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "date": 2023,
+    "year": 2023,
     "religiousdaysnights": [
       {
         "id": 1,
@@ -262,7 +262,7 @@
     ]
   },
   {
-    "date": 2024,
+    "year": 2024,
     "religiousdaysnights": [
       {
         "id": 1,

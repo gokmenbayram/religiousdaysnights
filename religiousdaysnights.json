@@ -1,6 +1,6 @@
 [
   {
-    "year": 2022,
+    "date": "2022",
     "religiousdaysnights": [
       {
         "id": 1,
@@ -21,7 +21,7 @@
         "month": "ŞUBAT",
         "day": "Miraç Kandili",
         "hicri_date": "Recep 1443",
-        "miladi_date_day": "27 Paz"
+        "miladi_date_day": "27 Şub"
       },
       {
         "id": 4,
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "year": 2023,
+    "date": "2023",
     "religiousdaysnights": [
       {
         "id": 1,
@@ -258,6 +258,269 @@
         "day": "Mevlid Kandili",
         "hicri_date": "Rebiülevvel 1445",
         "miladi_date_day": "26 Sal"
+      }
+    ]
+  },
+  {
+    "date": "2024",
+    "religiousdaysnights": [
+      {
+        "id": 1,
+        "month": "OCAK",
+        "day": "Üç Aylar",
+        "hicri_date": "Recep 1445",
+        "miladi_date_day": "12 Cum"
+      },
+      {
+        "id": 2,
+        "month": "OCAK",
+        "day": "Regaib Kandili",
+        "hicri_date": "Recep 1445",
+        "miladi_date_day": "11 Per"
+      },
+      {
+        "id": 3,
+        "month": "ŞUBAT",
+        "day": "Miraç Kandili",
+        "hicri_date": "Recep 1445",
+        "miladi_date_day": "06 Sal"
+      },
+      {
+        "id": 4,
+        "month": "ŞUBAT",
+        "day": "Berat Kandili",
+        "hicri_date": "Şaban 1445",
+        "miladi_date_day": "24 Cmt"
+      },
+      {
+        "id": 5,
+        "month": "MART",
+        "day": "Ramazan",
+        "hicri_date": "Ramazan 1445",
+        "miladi_date_day": "11 Pzt"
+      },
+      {
+        "id": 6,
+        "month": "MART",
+        "day": "Kadir Gecesi",
+        "hicri_date": "Ramazan 1445",
+        "miladi_date_day": "05 Cum"
+      },
+      {
+        "id": 7,
+        "month": "NİSAN",
+        "day": "Arefe",
+        "hicri_date": "Ramazan 1445",
+        "miladi_date_day": "09 Sal"
+      },
+      {
+        "id": 8,
+        "month": "NİSAN",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1445",
+        "miladi_date_day": "10 Çar"
+      },
+      {
+        "id": 9,
+        "month": "NİSAN",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1445",
+        "miladi_date_day": "11 Per"
+      },
+      {
+        "id": 10,
+        "month": "NİSAN",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1445",
+        "miladi_date_day": "12 Cum"
+      },
+      {
+        "id": 11,
+        "month": "HAZİRAN",
+        "day": "Arefe",
+        "hicri_date": "Zilhicce 1445",
+        "miladi_date_day": "15 Cmt"
+      },
+      {
+        "id": 12,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1445",
+        "miladi_date_day": "16 Paz"
+      },
+      {
+        "id": 13,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1445",
+        "miladi_date_day": "17 Pzt"
+      },
+      {
+        "id": 14,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1445",
+        "miladi_date_day": "18 Sal"
+      },
+      {
+        "id": 15,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1445",
+        "miladi_date_day": "19 Çar"
+      },
+      {
+        "id": 16,
+        "month": "TEMMUZ",
+        "day": "Hicri Yılbaşı",
+        "hicri_date": "Muharrem 1446",
+        "miladi_date_day": "07 Paz"
+      },
+      {
+        "id": 17,
+        "month": "TEMMUZ",
+        "day": "Aşure Günü",
+        "hicri_date": "Muharrem 1446",
+        "miladi_date_day": "16 Sal"
+      },
+      {
+        "id": 18,
+        "month": "EYLÜL",
+        "day": "Mevlid Kandili",
+        "hicri_date": "Rebiülevvel 1446",
+        "miladi_date_day": "14 Cmt"
+      }
+    ]
+  },
+  ,
+  {
+    "date": "2025",
+    "religiousdaysnights": [
+      {
+        "id": 1,
+        "month": "OCAK",
+        "day": "Üç Aylar",
+        "hicri_date": "Recep 1446",
+        "miladi_date_day": "01 Çar"
+      },
+      {
+        "id": 2,
+        "month": "OCAK",
+        "day": "Regaib Kandili",
+        "hicri_date": "Recep 1446",
+        "miladi_date_day": "02 Per"
+      },
+      {
+        "id": 3,
+        "month": "ŞUBAT",
+        "day": "Miraç Kandili",
+        "hicri_date": "Recep 1446",
+        "miladi_date_day": "26 Paz"
+      },
+      {
+        "id": 4,
+        "month": "ŞUBAT",
+        "day": "Berat Kandili",
+        "hicri_date": "Şaban 1446",
+        "miladi_date_day": "13 Per"
+      },
+      {
+        "id": 5,
+        "month": "MART",
+        "day": "Ramazan",
+        "hicri_date": "Ramazan 1446",
+        "miladi_date_day": "01 Cmt"
+      },
+      {
+        "id": 6,
+        "month": "MART",
+        "day": "Kadir Gecesi",
+        "hicri_date": "Ramazan 1446",
+        "miladi_date_day": "26 Çar"
+      },
+      {
+        "id": 7,
+        "month": "MART",
+        "day": "Arefe",
+        "hicri_date": "Ramazan 1446",
+        "miladi_date_day": "29 Cmt"
+      },
+      {
+        "id": 8,
+        "month": "MART",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1446",
+        "miladi_date_day": "30 Paz"
+      },
+      {
+        "id": 9,
+        "month": "MART",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1446",
+        "miladi_date_day": "31 Pzt"
+      },
+      {
+        "id": 10,
+        "month": "NİSAN",
+        "day": "Ramazan Bayramı",
+        "hicri_date": "Şevval 1446",
+        "miladi_date_day": "01 Sal"
+      },
+      {
+        "id": 11,
+        "month": "HAZİRAN",
+        "day": "Arefe",
+        "hicri_date": "Zilhicce 1446",
+        "miladi_date_day": "05 Per"
+      },
+      {
+        "id": 12,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1446",
+        "miladi_date_day": "06 Cum"
+      },
+      {
+        "id": 13,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1446",
+        "miladi_date_day": "07 Cmt"
+      },
+      {
+        "id": 14,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1446",
+        "miladi_date_day": "08 Paz"
+      },
+      {
+        "id": 15,
+        "month": "HAZİRAN",
+        "day": "Kurban Bayramı",
+        "hicri_date": "Zilhicce 1446",
+        "miladi_date_day": "09 Pzt"
+      },
+      {
+        "id": 16,
+        "month": "HAZİRAN",
+        "day": "Hicri Yılbaşı",
+        "hicri_date": "Muharrem 1447",
+        "miladi_date_day": "26 Per"
+      },
+      {
+        "id": 17,
+        "month": "TEMMUZ",
+        "day": "Aşure Günü",
+        "hicri_date": "Muharrem 1447",
+        "miladi_date_day": "05 Cmt"
+      },
+      {
+        "id": 18,
+        "month": "EYLÜL",
+        "day": "Mevlid Kandili",
+        "hicri_date": "Rebiülevvel 1447",
+        "miladi_date_day": "03 Çar"
       }
     ]
   }

@@ -3,7 +3,7 @@
   "religious_calendar": [
     {
       "year": 2024,
-      "religiousdaysnights": [
+      "religious_days_nights": [
         {
           "id": 1,
           "month": "OCAK",

@@ -1,11 +1,9 @@
 {
   "version": 1,
   "religious_calendar": [
-    {
-      "year": 2024,
-      "religious_days_nights": [
         {
           "id": 1,
+          "year": 2024,
           "month": "OCAK",
           "day": "Üç Aylar",
           "hicri_date": "Recep 1445",
@@ -14,6 +12,7 @@
         },
         {
           "id": 2,
+          "year": 2024,
           "month": "OCAK",
           "day": "Regaib Kandili",
           "hicri_date": "Recep 1445",
@@ -22,6 +21,7 @@
         },
         {
           "id": 3,
+          "year": 2024,
           "month": "ŞUBAT",
           "day": "Miraç Kandili",
           "hicri_date": "Recep 1445",
@@ -30,6 +30,7 @@
         },
         {
           "id": 4,
+          "year": 2024,
           "month": "ŞUBAT",
           "day": "Berat Kandili",
           "hicri_date": "Şaban 1445",
@@ -38,6 +39,7 @@
         },
         {
           "id": 5,
+          "year": 2024,
           "month": "MART",
           "day": "Ramazan",
           "hicri_date": "Ramazan 1445",
@@ -46,6 +48,7 @@
         },
         {
           "id": 6,
+          "year": 2024,
           "month": "MART",
           "day": "Kadir Gecesi",
           "hicri_date": "Ramazan 1445",
@@ -54,6 +57,7 @@
         },
         {
           "id": 7,
+          "year": 2024,
           "month": "NİSAN",
           "day": "Arefe",
           "hicri_date": "Ramazan 1445",
@@ -62,6 +66,7 @@
         },
         {
           "id": 8,
+          "year": 2024,
           "month": "NİSAN",
           "day": "Ramazan Bayramı",
           "hicri_date": "Şevval 1445",
@@ -70,6 +75,7 @@
         },
         {
           "id": 9,
+          "year": 2024,
           "month": "NİSAN",
           "day": "Ramazan Bayramı",
           "hicri_date": "Şevval 1445",
@@ -78,6 +84,7 @@
         },
         {
           "id": 10,
+          "year": 2024,
           "month": "NİSAN",
           "day": "Ramazan Bayramı",
           "hicri_date": "Şevval 1445",
@@ -86,6 +93,7 @@
         },
         {
           "id": 11,
+          "year": 2024,
           "month": "HAZİRAN",
           "day": "Arefe",
           "hicri_date": "Zilhicce 1445",
@@ -94,6 +102,7 @@
         },
         {
           "id": 12,
+          "year": 2024,
           "month": "HAZİRAN",
           "day": "Kurban Bayramı",
           "hicri_date": "Zilhicce 1445",
@@ -102,6 +111,7 @@
         },
         {
           "id": 13,
+          "year": 2024,
           "month": "HAZİRAN",
           "day": "Kurban Bayramı",
           "hicri_date": "Zilhicce 1445",
@@ -110,6 +120,7 @@
         },
         {
           "id": 14,
+          "year": 2024,
           "month": "HAZİRAN",
           "day": "Kurban Bayramı",
           "hicri_date": "Zilhicce 1445",
@@ -118,6 +129,7 @@
         },
         {
           "id": 15,
+          "year": 2024,
           "month": "HAZİRAN",
           "day": "Kurban Bayramı",
           "hicri_date": "Zilhicce 1445",
@@ -126,6 +138,7 @@
         },
         {
           "id": 16,
+          "year": 2024,
           "month": "TEMMUZ",
           "day": "Hicri Yılbaşı",
           "hicri_date": "Muharrem 1446",
@@ -134,6 +147,7 @@
         },
         {
           "id": 17,
+          "year": 2024,
           "month": "TEMMUZ",
           "day": "Aşure Günü",
           "hicri_date": "Muharrem 1446",
@@ -142,6 +156,7 @@
         },
         {
           "id": 18,
+          "year": 2024,
           "month": "EYLÜL",
           "day": "Mevlid Kandili",
           "hicri_date": "Rebiülevvel 1446",
@@ -155,6 +170,7 @@
       "religiousdaysnights": [
         {
           "id": 1,
+          "year": 2025,
           "month": "OCAK",
           "day": "Üç Aylar",
           "hicri_date": "Recep 1446",
@@ -163,6 +179,7 @@
         },
         {
           "id": 2,
+          "year": 2025,
           "month": "OCAK",
           "day": "Regaib Kandili",
           "hicri_date": "Recep 1446",
@@ -171,6 +188,7 @@
         },
         {
           "id": 3,
+          "year": 2025,
           "month": "ŞUBAT",
           "day": "Miraç Kandili",
           "hicri_date": "Recep 1446",
@@ -179,6 +197,7 @@
         },
         {
           "id": 4,
+          "year": 2025,
           "month": "ŞUBAT",
           "day": "Berat Kandili",
           "hicri_date": "Şaban 1446",
@@ -187,6 +206,7 @@
         },
         {
           "id": 5,
+          "year": 2025,
           "month": "MART",
           "day": "Ramazan",
           "hicri_date": "Ramazan 1446",
@@ -195,6 +215,7 @@
         },
         {
           "id": 6,
+          "year": 2025,
           "month": "MART",
           "day": "Kadir Gecesi",
           "hicri_date": "Ramazan 1446",
@@ -203,6 +224,7 @@
         },
         {
           "id": 7,
+          "year": 2025,
           "month": "MART",
           "day": "Arefe",
           "hicri_date": "Ramazan 1446",
@@ -211,6 +233,7 @@
         },
         {
           "id": 8,
+          "year": 2025,
           "month": "MART",
           "day": "Ramazan Bayramı",
           "hicri_date": "Şevval 1446",
@@ -219,6 +242,7 @@
         },
         {
           "id": 9,
+          "year": 2025,
           "month": "MART",
           "day": "Ramazan Bayramı",
           "hicri_date": "Şevval 1446",
@@ -227,6 +251,7 @@
         },
         {
           "id": 10,
+          "year": 2025,
           "month": "NİSAN",
           "day": "Ramazan Bayramı",
           "hicri_date": "Şevval 1446",
@@ -235,6 +260,7 @@
         },
         {
           "id": 11,
+          "year": 2025,
           "month": "HAZİRAN",
           "day": "Arefe",
           "hicri_date": "Zilhicce 1446",
@@ -243,6 +269,7 @@
         },
         {
           "id": 12,
+          "year": 2025,
           "month": "HAZİRAN",
           "day": "Kurban Bayramı",
           "hicri_date": "Zilhicce 1446",
@@ -251,6 +278,7 @@
         },
         {
           "id": 13,
+          "year": 2025,
           "month": "HAZİRAN",
           "day": "Kurban Bayramı",
           "hicri_date": "Zilhicce 1446",
@@ -259,6 +287,7 @@
         },
         {
           "id": 14,
+          "year": 2025,
           "month": "HAZİRAN",
           "day": "Kurban Bayramı",
           "hicri_date": "Zilhicce 1446",
@@ -267,6 +296,7 @@
         },
         {
           "id": 15,
+          "year": 2025,
           "month": "HAZİRAN",
           "day": "Kurban Bayramı",
           "hicri_date": "Zilhicce 1446",
@@ -275,6 +305,7 @@
         },
         {
           "id": 16,
+          "year": 2025,
           "month": "HAZİRAN",
           "day": "Hicri Yılbaşı",
           "hicri_date": "Muharrem 1447",
@@ -283,6 +314,7 @@
         },
         {
           "id": 17,
+          "year": 2025,
           "month": "TEMMUZ",
           "day": "Aşure Günü",
           "hicri_date": "Muharrem 1447",
@@ -291,6 +323,7 @@
         },
         {
           "id": 18,
+          "year": 2025,
           "month": "EYLÜL",
           "day": "Mevlid Kandili",
           "hicri_date": "Rebiülevvel 1447",
